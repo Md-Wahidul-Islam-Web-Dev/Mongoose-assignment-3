@@ -31,4 +31,4 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Md-Wahidul-Islam-Web-Dev/Mongoose-assignment-3.git
-vedio link:https://youtu.be/INpoJnMiS7I?si=P6qomrX4FD3Wsubw
+vedio link     https://youtu.be/INpoJnMiS7I?si=P6qomrX4FD3Wsubw
